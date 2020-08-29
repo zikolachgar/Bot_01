@@ -2,7 +2,7 @@
 
 //copyright © Angry Black 2020.//❦Angry Black❦
 const Discord = require("discord.js");//Angry Black
-const myid = ['Your ID'];//Angry Black هنا بتحط الايدى تبع حسابك و هو رقم طول
+const myid = ['387681045010448384'];//Angry Black هنا بتحط الايدى تبع حسابك و هو رقم طول
 const client = new Discord.Client();//Angry Black
 const client2 = new Discord.Client();//Angry Black
 const client3 = new Discord.Client();//Angry Black
